@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FF6B81"              # Set button and accent color to watermelon pink
+backgroundColor = "#FFF9F0"           # Use soft peach as the background color
+secondaryBackgroundColor = "#FFEBEE"  # Set panel/background box color to light rosy pink
+textColor = "#4A148C"                 # Use deep purple for all text
+font = "monospace"                    # Set the app’s font style to monospace
